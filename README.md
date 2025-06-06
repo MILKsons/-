@@ -15,7 +15,6 @@
 <div align="Left">
  <a href="https://jira.atlassian.com/"  target="_blank"><img src="https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></a>
   <a href="https://docs.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Google_Docs-blue?style=for-the-badge&logo=google-docs&logoColor=white" alt="Google Docs"></a>
-  <a href="https://trello.com/" target="_blank"><img src="https://img.shields.io/badge/-Trello-yellow?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-pink?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </div>
 
@@ -30,8 +29,6 @@
 <div align="Left">
   <a href="https://developer.android.com/studio"  target="_blank"><img src="https://img.shields.io/badge/-Android_Studio-green?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"></a>
   <a href="https://xcode.apple.com/" target="_blank"><img src="https://img.shields.io/badge/-Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"></a>
-  <a href="https://www.fastlane.tools/" target="_blank"><img src="https://img.shields.io/badge/-Fastlane-purple?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane"></a>
-  <a href="https://appium.io/" target="_blank"><img src="https://img.shields.io/badge/-Appium-yellow?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"></a>
 </div>
 
 ## Работа с данными: 
@@ -44,4 +41,10 @@
 <div align="Left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/-Bash-gray?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+</div>
+
+## Снифферы:
+<div align="center">
+  <a href="https://developer.mozilla.org/ru/docs/Learn/Common_questions/What_are_browser_developer_tools"  target="_blank"><img src="https://img.shields.io/badge/-DevTools-blue?style=for-the-badge&logo=mozilla&logoColor=white" alt="DevTools"></a>
+  <a href="https://www.charlesproxy.com/" target="_blank"><img src="https://img.shields.io/badge/-Charles_Proxy-green?style=for-the-badge&logo=none&color=purple" alt="Charles Proxy"></a>
 </div>
