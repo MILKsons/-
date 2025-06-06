@@ -5,7 +5,6 @@
 ## Социальные сети:
 <div align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/your-instagram-profile" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
 ## Ссылки на пример найденных багов с артефактами тестирования. 
@@ -13,8 +12,8 @@
 
 
 ## Тестовая документация:
-<div align="center">
-  <a href="https://www.youtube.com/"  target="_blank"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<div align="Left">
+ <a href="https://jira.atlassian.com/"  target="_blank"><img src="https://img.shields.io/badge/-Jira-blue?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></a>
   <a href="https://docs.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Google_Docs-blue?style=for-the-badge&logo=google-docs&logoColor=white" alt="Google Docs"></a>
   <a href="https://trello.com/" target="_blank"><img src="https://img.shields.io/badge/-Trello-yellow?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-pink?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
