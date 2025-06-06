@@ -23,6 +23,7 @@
 <div align="Left">
   <a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop"  target="_blank"><img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.soapui.org/" target="_blank"><img src="https://img.shields.io/badge/-SoapUI-green?style=for-the-badge&logo=none&color=orange" alt="SoapUI"></a>
 </div>
 
 ## Тестирование мобильных приложений: 
@@ -41,7 +42,6 @@
 
 ## Работа с кодом: 
 <div align="Left">
-  <a href="https://www.python.org/"  target="_blank"><img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/-Bash-gray?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </div>
