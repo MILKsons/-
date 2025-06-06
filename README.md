@@ -3,8 +3,8 @@
 
 
 ## Социальные сети:
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<div align="Left">
+  <a href="https://t.me/Milkson91"  target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </div>
 
 ## Ссылки на пример найденных багов с артефактами тестирования. 
@@ -20,13 +20,13 @@
 </div>
 
 ## Тестирование веб-приложений: 
-<div align="center">
+<div align="Left">
   <a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop"  target="_blank"><img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 ## Тестирование мобильных приложений: 
-<div align="center">
+<div align="Left">
   <a href="https://developer.android.com/studio"  target="_blank"><img src="https://img.shields.io/badge/-Android_Studio-green?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"></a>
   <a href="https://xcode.apple.com/" target="_blank"><img src="https://img.shields.io/badge/-Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"></a>
   <a href="https://www.fastlane.tools/" target="_blank"><img src="https://img.shields.io/badge/-Fastlane-purple?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane"></a>
@@ -34,13 +34,13 @@
 </div>
 
 ## Работа с данными: 
-<div align="center">
+<div align="Left">
   <a href="https://www.mysql.com/"  target="_blank"><img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-yellow?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
 </div>
 
 ## Работа с кодом: 
-<div align="center">
+<div align="Left">
   <a href="https://www.python.org/"  target="_blank"><img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
