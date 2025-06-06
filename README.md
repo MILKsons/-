@@ -5,3 +5,5 @@
 [должно улететь на ютуб](https://www.youtube.com)
 
 # Раздел?
+
+https://t.me/artsiom_qa
