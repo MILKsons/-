@@ -6,4 +6,4 @@
 
 # Раздел?
 
-https://t.me/artsiom_qa
+
