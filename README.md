@@ -23,6 +23,7 @@
   <a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop"  target="_blank"><img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.soapui.org/" target="_blank"><img src="https://img.shields.io/badge/-SoapUI-green?style=for-the-badge&logo=none&color=orange" alt="SoapUI"></a>
+  <a href="https://developer.mozilla.org/ru/docs/Learn/Common_questions/What_are_browser_developer_tools"  target="_blank"><img src="https://img.shields.io/badge/-DevTools-blue?style=for-the-badge&logo=mozilla&logoColor=white" alt="DevTools"></a>
 </div>
 
 ## Тестирование мобильных приложений: 
@@ -44,7 +45,7 @@
 </div>
 
 ## Снифферы:
-<div align="center">
+<div align="Left">
   <a href="https://developer.mozilla.org/ru/docs/Learn/Common_questions/What_are_browser_developer_tools"  target="_blank"><img src="https://img.shields.io/badge/-DevTools-blue?style=for-the-badge&logo=mozilla&logoColor=white" alt="DevTools"></a>
   <a href="https://www.charlesproxy.com/" target="_blank"><img src="https://img.shields.io/badge/-Charles_Proxy-green?style=for-the-badge&logo=none&color=purple" alt="Charles Proxy"></a>
 </div>
