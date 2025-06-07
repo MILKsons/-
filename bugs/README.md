@@ -6,4 +6,5 @@
 # absolutbank.ru
 
 Окружение во время тестирования - ОС - Windows 10 Pro (22H2), браузер - 137.0.7151.69 (Официальная сборка) (64 бит)
+
 [Тест кейс](screenshots/testitBankNakop.PNG)
