@@ -9,6 +9,10 @@
 
 Баг был выявлен при исследовательском тестированиия. 
 
+Локализация совершалась по поиску элемента с помощью DevTools, ошибка на бэке.
+
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/bank_nakop.PNG" alt="Header" style="max-width: 30%;">, 
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/некорректные%20данные1.PNG" alt="Header" style="max-width: 30%;">
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/некорректные%20данные%202.PNG" style="max-width: 30%;">
+<img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/lokalbank.PNG" style="max-width: 30%;">
+<img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/lokalbanknakop.PNG" style="max-width: 30%;">
