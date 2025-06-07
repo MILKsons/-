@@ -10,5 +10,5 @@
 ![Тестовый скриншот](screenshots/testitBankNakop.PNG)
 
 <p align="center">
-  <img src="screenshots/testitBankNakop.PNG" alt="Тестовый скриншот" width="300">
+  <img src="screenshots/testitBankNakop.PNG" alt="Тестовый скриншот" width="3000">
 </p>
