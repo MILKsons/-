@@ -7,6 +7,8 @@
 
 Окружение во время тестирования - ОС - Windows 10 Pro (22H2), браузер - 137.0.7151.69 (Официальная сборка) (64 бит)
 
+Баг был выявлен при исследовательском тестированиия. 
+
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/bank_nakop.PNG" alt="Header" style="max-width: 70%;">
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/некорректные%20данные1.PNG" alt="Header" style="max-width: 70%;">
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/некорректные%20данные%202.PNG" style="max-width: 70%;">
