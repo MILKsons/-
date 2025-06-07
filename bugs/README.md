@@ -7,7 +7,7 @@
 
 Окружение во время тестирования - ОС - Windows 10 Pro (22H2), браузер - 137.0.7151.69 (Официальная сборка) (64 бит)
 
-![Тестовый скриншот](screenshots/testitBankNakop.PNG)
+![Тестовый скриншот](screenshots/testitvbanknakop.PNG)
 
 <p align="center">
   <img src="screenshots/testitBankNakop.PNG" alt="Тестовый скриншот" width="3000">
