@@ -11,8 +11,8 @@
 
 Локализация совершалась по поиску элемента с помощью DevTools, ошибка на бэке.
 
-
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/testcasenakop.PNG" alt="Header" style="max-width: 30%;">
+<img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/bagreportnakop.PNG" alt="Header" style="max-width: 30%;">
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/некорректные%20данные1.PNG" alt="Header" style="max-width: 30%;">
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/некорректные%20данные%202.PNG" style="max-width: 30%;">
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/lokalbank.PNG" style="max-width: 30%;">
