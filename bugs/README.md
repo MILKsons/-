@@ -3,7 +3,7 @@
 В данном разделе будут находиться найденные мной баги.
 На данный момент нет возможности подключить стандартную версию testit или пользоваться jira (в связи с сво нет доступа), поэтому некоторые параметры будут указываться в описании разделов.
 
-## absolutbank.ru - №1
+## Absolutbank.ru - №1
 
 Некорректный расчет накопительного счета
 
@@ -19,3 +19,12 @@
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/некорректные%20данные%202.PNG" style="max-width: 30%;">
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/lokalbank.PNG" style="max-width: 30%;">
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/lokalbanknakop.PNG" style="max-width: 30%;">
+
+## Absolutbank.ru - №2
+
+Некорректное отображение раскрывающего списка, UI баг.
+<img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/tastecaseheaderbank.PNG" style="max-width: 30%;">
+<img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/bagheaderbank.PNG" style="max-width: 30%;">
+<img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/UIbank.PNG" alt="Header" style="max-width: 30%;">
+<img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/UI2bank.PNG" alt="Header" style="max-width: 30%;">
+<img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/UI3bank.PNG" alt="Header" style="max-width: 30%;">
