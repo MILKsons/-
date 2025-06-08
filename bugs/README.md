@@ -23,7 +23,11 @@
 ## Absolutbank.ru - №2
 
 Некорректное отображение раскрывающего списка, UI баг.
+
+Тест-кейс
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/tastecaseheaderbank.PNG" style="max-width: 30%;">
+
+Баг-репорт
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/bagheaderbank.PNG" style="max-width: 30%;">
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/UIbank.PNG" alt="Header" style="max-width: 30%;">
 <img src="https://github.com/MILKsons/Portfolio/blob/main/screenshots/UI2bank.PNG" alt="Header" style="max-width: 30%;">
